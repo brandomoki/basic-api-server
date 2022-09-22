@@ -12,7 +12,7 @@
 
 - [Deployed Site:]()
 
-- [PR From Github:]()
+- [PR From Github:](https://github.com/brandomoki/basic-api-server/pull/1)
 
 ### Running the app
 
